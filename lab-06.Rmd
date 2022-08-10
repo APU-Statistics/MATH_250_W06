@@ -1,0 +1,27 @@
+---
+title: "Lab 06: Smokers"
+subtitle: ""
+author: "Group member names here"
+date: "due October 11, 11:59 PM"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    number_section: false
+    highlight: tango
+    theme: "cosmo"
+link-citations: yes
+---
+
+# Load Packages and Data
+
+```{r load-packages, message = FALSE, warning = FALSE}
+
+``` 
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+...
